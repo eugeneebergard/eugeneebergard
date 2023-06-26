@@ -26,5 +26,5 @@ My name is Evgeniy and i am web developer. My pet projects can be viewed in pinn
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeneebergard&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeneebergard)
 
